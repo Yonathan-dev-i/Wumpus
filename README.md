@@ -24,6 +24,25 @@ Implementación mejorada del clásico "Wumpus World" utilizando razonamiento ló
 ## 🚀 Cómo Ejecutar
 
 1. Clona el repositorio:
-```bash
-git clone https://github.com/Yonathan-dev-i/Wumpus.git
-cd Wumpus
+- git clone https://github.com/Yonathan-dev-i/Wumpus.git
+- cd Wumpus
+
+## Inicia el juego en SWI-Prolog:
+- ?- [wumpus_wer].
+- ?- iniciar.
+
+## 🎮 Comandos Disponibles
+
+```prolog
+% Comandos principales:
+iniciar.                     % Comienza nueva partida
+paso.                        % Ejecuta un turno de exploración
+mostrar_mundo_completo.      % Muestra estado actual del mundo
+mostrar_mapa_conocimiento.   % Visualiza lo que el agente ha deducido
+
+% Comandos avanzados:
+analizar_situacion_critica.  % Evalúa peligros inminentes
+explorar_sistematicamente.   % Modo exploración automática
+verificar_consistencia.      % Chequea coherencia del conocimiento
+mostrar_estadisticas.        % Muestra métricas del juego
+
