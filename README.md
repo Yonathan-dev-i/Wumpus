@@ -135,6 +135,3 @@ Analizando percepción en (1,1): [hedor,nada,nada,nada]
 - **Yonathan Muriel** ([Yonathan-dev-i](https://github.com/Yonathan-dev-i))
 - Correo: yonathan1muriel@gmail.com
 
-## Contribuciones
-
-¡Las contribuciones son bienvenidas! Si deseas mejorar el código, agregar nuevas funcionalidades (por ejemplo, visualización gráfica o estrategias adicionales), o corregir errores, por favor crea un *pull request* o abre un *issue* en el repositorio.
